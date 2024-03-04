@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Page Views Count](https://badges.toozhao.com/badges/01HR4N89RJFQYWJP1KVMR8A03Z/green.svg)](https://badges.toozhao.com/stats/01HR4N89RJFQYWJP1KVMR8A03Z "Get your own page views count badge on badges.toozhao.com")
+
 [![liziyi0914's github stats](https://github-readme-stats.vercel.app/api?username=liziyi0914&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liziyi0914&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
