@@ -15,8 +15,13 @@
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liziyi0914&layout=compact&border_color=fff&&theme=tokyonight&border_radius=11&hide=jupyter%20notebook&langs_count=6" />
 </p>
 <p align="center">
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=liziyi0914&api_domain=wakapi.home.liziyi0914.com:9443&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" />
+  <img align="center" width="75%" src="https://github-readme-stats.vercel.app/api/wakatime?username=liziyi0914&api_domain=wakapi.home.liziyi0914.com:9443&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" />
 </p>
+
+<p align="center">
+  <img align="center" src="https://wakapi.home.liziyi0914.com:9443/api/activity/chart/liziyi0914.svg" />
+</p>
+
 
 <!--
 **liziyi0914/liziyi0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
